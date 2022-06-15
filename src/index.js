@@ -11,7 +11,6 @@ const App = (props) => {
           <div className="col">
             <Collapse href="collapseExample1">
               <Card
-                cardTitle="Card Title 1 "
                 cardText="Lorem Ipsum Text 1"
                 updatedTime="Last Updated 1 min ago"
                 image="https://picsum.photos/id/1/200/300"
@@ -22,7 +21,7 @@ const App = (props) => {
             <Collapse href="collapseExample2">
               <Card
                 cardTitle="Card Title 2 "
-                cardText="Lorem Ipsum Text 2"
+                // cardText="Lorem Ipsum Text 2"
                 updatedTime="Last Updated 2 min ago"
                 image="https://picsum.photos/id/2/200/300"
               />

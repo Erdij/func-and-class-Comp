@@ -1,7 +1,7 @@
 import React from "react";
 
 const Collapse = (props) => {
-  // console.log(props.children);
+  console.log(props.children);
   // console.log(props);
   return (
     <div>
